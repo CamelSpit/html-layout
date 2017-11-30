@@ -1,0 +1,56 @@
+.main-container {
+    margin: 0;
+    overflow: hidden;
+}
+
+header {
+    width:100vw;
+    height: 100px;
+    background: lightgray;
+    padding: 10px 25px;
+}
+
+header div {
+    float: left;
+    background:#4A9BE7;
+    height: 100%;
+    width: 100px;
+    overflow: hidden;
+}
+
+section {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+h1 {
+    padding: 45px;
+    font-family: Helvetica;
+    font-weight: 350;
+    color: rgb(77, 75, 75);
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+
+.stripes {
+    height: 150px;
+    width: 100vw;
+    padding: 0px;
+    margin: 0px;
+}
+.blue {
+    background: #4A9BE7;  
+}
+
+.teal {
+    background: #4AE7AC;
+}
+
+.green {
+    background: #ACF573;
+}
+
+.yellow {
+    background: #ECF303;
+}
